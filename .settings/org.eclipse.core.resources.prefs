@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/connection/ChapterDao.java=UTF-8
+encoding//src/connection/ConnectDB.java=UTF-8
+encoding//src/connection/SubjectDao.java=UTF-8
+encoding//src/connection/TemplateDao.java=UTF-8
+encoding//src/control/TestControl.java=UTF-8
+encoding//src/model/InnerQuestion.java=UTF-8
+encoding//src/view/LogIn.java=UTF-8
